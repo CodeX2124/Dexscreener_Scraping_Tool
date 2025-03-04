@@ -54,4 +54,4 @@ And then, this bot will get top traders for this pair and track activities of th
 
 If you need any help, please contact me.
 [Telegram](https://web.telegram.org/k/#@codex124)
-[Discord](https://discord.com/users/cool_612_17351)
+[Discord](https://discord.com/users/codex_2124)
